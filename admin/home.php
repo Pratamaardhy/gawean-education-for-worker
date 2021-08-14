@@ -48,7 +48,7 @@
                               <td>
                                 Pelatihan Facebook Ads - Basic
                                 <div class="text text-small text-muted">
-                                  Edit | Show | Delete | Created 2017-01-09
+                              <a href="edit.php?id=3">Edit</a> | <a href="../page.php?id=3">Show</a> | <a href="delete.php?id=3">Delete</a> | Created 2017-01-09
                                 </div>
                               </td>
                               <td>2017-01-11</td>
